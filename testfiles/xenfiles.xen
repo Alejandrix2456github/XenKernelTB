@@ -1,0 +1,8 @@
+# XenFiles.xen
+
+{
+  "name": "XenFiles",
+  "description": "A file manager application for Xen Kernel TB",
+  "version": "1.0.0",
+  "main": "index.html"
+}
